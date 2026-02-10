@@ -1,0 +1,8 @@
+| Gesture/Key | Action                |
+| ----------- | --------------------- |
+| 1 finger    | Draw                  |
+| 2 fingers   | Select color / eraser |
+| Black color | Eraser                |
+| S key       | Save drawing          |
+| C key       | Clear canvas          |
+| Q key       | Exit                  |
